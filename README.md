@@ -1,35 +1,39 @@
 # 🤖 FAQster AI - Customer Support Bot
 
+[![Status](https://img.shields.io/badge/status-completed-brightgreen)](https://github.com/Krithic3/AI-Customer-Support-Bot-for-Unthinkable-Solutions-Placement-Drive)  
+[![Tech Stack](https://img.shields.io/badge/Tech-Next.js-blue)](https://nextjs.org/) [![Vercel AI SDK](https://img.shields.io/badge/Vercel-AI%20SDK-purple)](https://vercel.com/)  
+
 An AI-powered customer support assistant that answers FAQs, maintains context, and escalates complex queries intelligently.
 
+---
+
 ## 🚀 Project Overview
-FAQster AI is built as part of the Unthinkable Assignment to demonstrate an AI-driven customer support system using Next.js and Vercel AI SDK.
+**FAQster AI** is built as part of the Unthinkable Assignment to demonstrate an AI-driven customer support system using Next.js and Vercel AI SDK.
 
 The bot provides:
 
 - ✅ Context-aware FAQ responses  
 - 💾 Session memory using Upstash KV  
 - ⚙️ Smart escalation when confidence is low  
-- 💬 Simple and clean chat interface  
+- 💬 Clean and interactive chat interface  
 
 ---
 
 ## 🧠 Tech Stack
-- Next.js (App Router)  
-- React  
-- Vercel AI SDK  
-- Upstash KV (for storing session data)  
-- Tailwind CSS  
+- **Frontend:** Next.js (App Router), React, Tailwind CSS  
+- **Backend / AI:** Vercel AI SDK  
+- **Database / Session Memory:** Upstash KV  
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/Krithic3/AI-Customer-Support-Bot-for-Unthinkable-Solutions-Placement-Drive.git
 cd AI-Customer-Support-Bot-for-Unthinkable-Solutions-Placement-Drive
+
 
 
 
@@ -74,5 +78,6 @@ Maintain conversation memory to provide coherent multi-turn responses.
 
 
 Demo Video Link :
+
 
 
