@@ -46,7 +46,7 @@ Open your browser at http://localhost:3000 to interact with FAQster AI.
 
 
 
-🔹 Usage
+## Usage
 
 Type your query in the chat interface
 
@@ -56,9 +56,9 @@ If the bot cannot answer, it simulates escalation to human support
 
 Multi-turn conversations are remembered for context
 
+---
 
-
-Prompts Documentation :
+## Prompts Documentation :
 
 1. FAQ Response Prompt
 
@@ -74,4 +74,5 @@ Maintain conversation memory to provide coherent multi-turn responses.
 
 
 Demo Video Link :
+
 
