@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+=======
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+
+  excludeLinksFromLockfile: false
